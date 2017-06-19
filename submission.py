@@ -1,3 +1,1 @@
-def predictor(arg):
-    return 1
- 
+ print 1
